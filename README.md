@@ -9,4 +9,4 @@ w celu zniwelowania temperetury mamy dostępne turbiny.
 
 Zkompilowana wersja gry jest dostępna w zipie.
 
-Cały kod do wglądu jest dostępny w folderze /Assets
+Cały kod do wglądu jest dostępny w folderze /Assets/Scripts
